@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'To-Do List';
   activity = ["Hunting", "Homework"];
-  fish = ["Maths", "OS", "Computer Networks"];
+  sub = ["Maths", "OS", "Computer Networks"];
   animals = ["Bear", "Boar", "Tiger"];
   message: string = "Hello!!";
   inputValue : string = "Initial String";
